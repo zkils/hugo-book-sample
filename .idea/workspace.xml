@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aed67d43-9d4c-4f51-9ad7-50e2fdf8abef" name="Default Changelist" comment="" />
+    <list default="true" id="aed67d43-9d4c-4f51-9ad7-50e2fdf8abef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/archives/hello_world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/archives/hello_world1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/archives/hello_world2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/hello_world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/hello_world1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/hello_world2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter1/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter1/2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter1/3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter1/4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter1/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter2/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter2/2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter2/3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter2/4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter2/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter3/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter3/3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter3/4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter3/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter3/chapter3-2/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter3/chapter3-2/2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter3/chapter3-2/3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter3/chapter3-2/4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/chapter3/chapter3-2/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/entry/hello_world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/entry/hello_world1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/entry/hello_world2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/getting-started/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/getting-started/configuration.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/getting-started/installation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/getting-started/screenshot.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/hello_world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/creating-a-new-theme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/goisforlovers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/hugoisforlovers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/migrate-from-jekyll.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/hello_world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/sample/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/sample/build-in-shortcodes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/sample/custom-shortcodes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/sample/search-shortcode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/sample/table-of-contents.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/og-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pexels-photo-196666.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/manifest.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/menu/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/book.scss_50fc8c04e12a2f59027287995557ceff.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/book.scss_50fc8c04e12a2f59027287995557ceff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-book" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,47 +71,84 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/docs/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/docs/applicationFramework/manifest/manifest/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hugo-sample/config.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="5080" selection-start-line="1" selection-start-column="5080" selection-end-line="1" selection-end-column="5080" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-theme-techdoc/exampleSite/config.toml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/docs/manifest.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/menu/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="114">
-                <caret line="6" selection-start-line="6" selection-end-line="6" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="98">
+              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>slide</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/hugo-book" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/content/docs/menu/index.md" />
+        <option value="$PROJECT_DIR$/content/menu/index.md" />
+        <option value="$PROJECT_DIR$/content/docs/applicationFramework/hidden.md" />
+        <option value="$PROJECT_DIR$/../hugo-sample/config.toml" />
         <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -84,14 +179,12 @@
             <path>
               <item name="hugo-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-book" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-book" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -103,15 +196,19 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/docs" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sources\hugo-book\content\docs\applicationFramework\manifest" />
+      <recent name="D:\sources\hugo-book\content\docs\applicationFramework" />
       <recent name="D:\sources\hugo-book\content" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\sources\hugo-book" />
       <recent name="D:\sources\hugo-book\content\docs" />
     </key>
   </component>
@@ -137,22 +234,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586761145537</updated>
-      <workItem from="1586761146912" duration="885000" />
+      <workItem from="1586761146912" duration="2794000" />
     </task>
+    <task id="LOCAL-00001" summary="init hugo book sample">
+      <created>1586762169344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586762169344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="885000" />
+    <option name="totallyTimeSpent" value="2794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32924694" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32924694" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924694" />
@@ -169,8 +275,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="init hugo book sample" />
+    <option name="LAST_COMMIT_MESSAGE" value="init hugo book sample" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/docs/manifest.md">
+    <entry file="file://$PROJECT_DIR$/content/docs/applicationFramework/manifest/manifest.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -181,17 +292,68 @@
     <entry file="file://$PROJECT_DIR$/content/menu/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/docs/applicationFramework/hidden.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/docs/applicationFramework/manifest/manifest/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hugo-sample/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/_custom.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="5080" selection-start-line="1" selection-start-column="5080" selection-end-line="1" selection-end-column="5080" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-techdoc/exampleSite/config.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="98">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
